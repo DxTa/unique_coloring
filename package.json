@@ -1,0 +1,24 @@
+{
+  "name": "unique-coloring",
+  "version": "1.0.0",
+  "description": "generate random color distinguishable to humans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DxTa/unique_coloring.git"
+  },
+  "keywords": [
+    "coloring",
+    "random",
+    "distinguish"
+  ],
+  "author": "Scelesto, DxTa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DxTa/unique_coloring/issues"
+  },
+  "homepage": "https://github.com/DxTa/unique_coloring#readme"
+}
